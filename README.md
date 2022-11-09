@@ -1,2 +1,3 @@
 # go-intensivo
-FullCycle Golang Intensive short bootcamp repository
+<Eng.>: FullCycle Golang Intensive short bootcamp project
+<PtBr>: Projeto do mini bootcamp Go Intensivo da FullCycle
